@@ -7,7 +7,9 @@ Um mini projeto para disciplina de Banco de Dados II, cujo tema é um *Sistema d
 Instale o Python, Postgresql, DBeaver ou PGadmin.
 Instale o psycopg2 usando o pip:
 
-```bash pip install psycopg2-binary```
+```bash 
+pip install psycopg2-binary
+```
 
 ## Configuração
 
@@ -18,8 +20,12 @@ Ajuste os parametros de conexão no arquivo *cli.py*.
 
 No Linux:
 
-```bash python3 cli.py```
+```bash 
+python3 cli.py
+```
 
 No Windows:
 
-```bash python clip.py```
+```bash 
+python clip.py
+```
